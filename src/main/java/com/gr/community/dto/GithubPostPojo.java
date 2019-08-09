@@ -1,4 +1,4 @@
-package com.gr.community.pojo;
+package com.gr.community.dto;
 
 public class GithubPostPojo {
     private String client_id;

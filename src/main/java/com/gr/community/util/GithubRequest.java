@@ -1,8 +1,8 @@
  package com.gr.community.util;
 
 import com.alibaba.fastjson.JSON;
-import com.gr.community.pojo.GithubPostPojo;
-import com.gr.community.pojo.GithubUser;
+import com.gr.community.dto.GithubPostPojo;
+import com.gr.community.dto.GithubUser;
 import okhttp3.*;
 import org.springframework.stereotype.Component;
 
